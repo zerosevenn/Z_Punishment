@@ -1,0 +1,14 @@
+name: Z_Punishments
+version: '${project.version}'
+main: me.zeroseven.trial.Punishments
+api-version: '1.20'
+authors: [ZeroSevenn]
+commands:
+  ban:
+  mute:
+  unban:
+  unmute:
+  kick:
+  history:
+  checkban:
+  checkmute:

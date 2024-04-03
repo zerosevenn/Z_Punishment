@@ -1,0 +1,7 @@
+repeated_punish:
+  first_time: kick
+  second_time: mute
+  third_time: temp_ban
+
+#time in seconds
+temp_ban_time: 20000
